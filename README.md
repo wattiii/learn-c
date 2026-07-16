@@ -17,4 +17,5 @@ Repo Table of Subjects:
 - Assignment
 - printf
 
-It will have a few simple programs. 
+It will have a few simple programs:
+- dweight.c
